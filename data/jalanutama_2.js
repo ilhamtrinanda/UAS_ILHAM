@@ -1,0 +1,1 @@
+var json_jalanutama_2 = {"type":"FeatureCollection","name":"jalanutama_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"panjang":78.749},"geometry":{"type":"MultiLineString","coordinates":[[[100.401409927029675,-0.47192032829291],[100.400954408400196,-0.472465229269757]]]}}]}
